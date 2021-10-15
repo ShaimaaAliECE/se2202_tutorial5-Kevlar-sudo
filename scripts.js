@@ -75,7 +75,7 @@ function takeCell(event) {
 
     // I'll leave declaring the winner for your intrinsic motivation, it's not required for this assignment 
 }
-
+//function to see if game is over
 function isGameOver() {
 
     for (let i = 0; i < btns.length; i++)
